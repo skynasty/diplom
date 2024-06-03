@@ -1,3 +1,19 @@
-Сначала надо сделать - npm i
-Чтобы запустить фронт - npm run dev
-Чтобы запустить сервер - npm run start
+## Project setup and usage
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run front:
+
+```
+npm run dev
+```
+
+Run back:
+
+```
+npm run start
+```
